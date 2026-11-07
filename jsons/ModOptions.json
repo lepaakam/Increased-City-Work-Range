@@ -1,5 +1,5 @@
 {
-  "constants":{"cityWorkRange":6,"cityExpandRange":6},
+  "constants":{"cityWorkRange":16,"cityExpandRange":16},
   "author":"VeirwenBlitzz",
   "modUrl":"https://github.com/VeirwenBlitzz/Increased-City-Work-Range",
   "topics":["unciv-mod","unciv-mod-fun"],
